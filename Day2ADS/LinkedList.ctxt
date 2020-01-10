@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LinkedList
+comment1.params=list\ data
+comment1.target=LinkedList\ insert(LinkedList,\ java.lang.Object)
+comment2.params=list\ index
+comment2.target=boolean\ remove(LinkedList,\ int)
+comment3.params=list
+comment3.target=int\ getSize(LinkedList)
+comment4.params=list
+comment4.target=boolean\ printList(LinkedList)
+comment5.params=list\ index
+comment5.target=java.lang.Object\ get(LinkedList,\ int)
+comment6.params=list\ data
+comment6.target=int\ find(LinkedList,\ java.lang.Object)
+comment7.params=list\ data
+comment7.target=void\ addFirst(LinkedList,\ java.lang.Object)
+comment8.params=list
+comment8.target=void\ removeHead(LinkedList)
+numComments=9
